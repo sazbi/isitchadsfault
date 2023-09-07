@@ -3,9 +3,6 @@ import Cat from './Cat';
 import "./App.scss"
 
 export default class NoU extends React.Component {
-  constructor(props: {} | Readonly<{}>){
-    super(props)
-  }
   render() {
     return(
       <div>
